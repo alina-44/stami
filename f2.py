@@ -1,4 +1,5 @@
 def funny_story():
-    print("eva's fadichot")
+    print("one day eva had a crush on homo.")
+
 
 funny_story()
